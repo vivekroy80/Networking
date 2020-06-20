@@ -5,5 +5,7 @@ Create cpp files
 
 Create header files
 
+//Do compile src file one by one
 
 Create Makefile
+
